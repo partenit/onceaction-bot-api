@@ -1,0 +1,6 @@
+{
+    "name": "apiato/block",
+    "description": "Block Container for apiato.",
+    "require": {
+    }
+}
